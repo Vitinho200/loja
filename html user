@@ -22,6 +22,6 @@
     <h2>Conteúdo da Página</h2>
     <p>Seu conteúdo da página aqui...</p>
   </div>
-  <script src="script.js"></script>
+  <script src="user.js"></script>
 </body>
 </html>

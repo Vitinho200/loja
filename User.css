@@ -10,7 +10,7 @@ body {
   width: 250px;
   position: fixed;
   top: 0;
-  left: -230px;
+  left: -160px;
   background-color: #111;
   overflow-x: hidden;
   transition: 0.5s;
@@ -62,7 +62,7 @@ body {
 button {
   margin-left: 223px;
   background-color: aqua;
-  color: black;
+  color: white;
 }
 
 
@@ -79,4 +79,9 @@ p {
 
 h3 {
   margin-left: 250px;
+}
+
+.close-btn{
+  margin-left: 157px;
+  background-color: blue;
 }
